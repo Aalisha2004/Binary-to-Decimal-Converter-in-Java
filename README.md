@@ -1,4 +1,6 @@
-# This repository contains a simple Java program that converts a binary number (entered as an integer) into its decimal equivalent. It demonstrates basic understanding of number systems and manipulation of digits using loops and arithmetic operations in Java.
+# Binary to Decimal Converter in Java
+
+This repository contains a simple Java program that converts a binary number (entered as an integer) into its decimal equivalent. It demonstrates basic understanding of number systems and manipulation of digits using loops and arithmetic operations in Java.
 
 **📋 Description**
 The program accepts a binary number as an integer input from the user and calculates its decimal representation. The conversion logic is implemented manually using math operations (i.e., without using Java's built-in methods like Integer.parseInt(bin, 2)), making it useful for beginners to understand binary-to-decimal conversion.
